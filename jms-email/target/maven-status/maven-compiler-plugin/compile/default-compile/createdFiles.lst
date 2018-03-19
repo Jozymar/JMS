@@ -1,0 +1,6 @@
+com/ifpb/jms/email/LerEmail.class
+com/ifpb/jms/email/EnviarEmailServlet.class
+com/ifpb/jms/whats/ConsumidorDeWhats.class
+com/ifpb/jms/whats/EnviarWhatsServlet.class
+com/ifpb/jms/whats/EnviarWhats.class
+com/ifpb/jms/email/EnviarEmail.class
